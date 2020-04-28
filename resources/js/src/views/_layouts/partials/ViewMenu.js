@@ -4,6 +4,7 @@ import { NavLink, withRouter } from "react-router-dom";
 import listMenu from '../../../supports/listComponent';
 
 //third party 
+import 'antd/lib/menu/style/css';
 import { Menu } from 'antd';
 
 const { SubMenu } = Menu;
